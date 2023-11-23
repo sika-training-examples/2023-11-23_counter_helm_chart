@@ -2,7 +2,7 @@
 host:
 
 # Optional
-counterReplicas: 2
+counterReplicas: 4
 counterImage: ondrejsika/counter
 
 redisImage: redis
