@@ -1,0 +1,8 @@
+# Required
+host:
+
+# Optional
+counterReplicas: 2
+counterImage: ondrejsika/counter
+
+redisImage: redis
